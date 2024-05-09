@@ -44,11 +44,11 @@ To get started with the project, follow these steps:
 
 ## Requirements
 
-- scikit-learn==0.24.2
-- pandas==1.3.3
-- numpy==1.21.2
-- matplotlib==3.4.3
-- jupyterlab==3.1.7
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+- jupyterlab
 
 ## Dataset
 
