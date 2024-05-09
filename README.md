@@ -13,7 +13,7 @@ To get started with the project, follow these steps:
 <li>Clone the repository:</li>
 
    ```bash
-   git clone https://github.com/your-username/biscuit-classifier.git
+   https://github.com/KayVeeZ/dunking_biscuits.git
    ```
 
 <li>Navigate to the project directory:</li>
