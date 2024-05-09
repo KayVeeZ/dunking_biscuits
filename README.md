@@ -1,8 +1,13 @@
 # Biscuit Classifier
 
-This is a simple machine learning project that classifies different types of biscuits using the scikit-learn library.
+Welcome to the Biscuit Classifier repository! This project aims to classify different types of biscuits using machine learning algorithms based on certain parameters.
+Introduction
 
-## Installation
+In this project, we use machine learning techniques to build a classifier that can predict the type of biscuit based on features such as gamma, phi, eta, L, and t.
+
+## Getting Started
+
+To get started with the project, follow these steps:
 
 <ol>
 <li>Clone the repository:</li>
