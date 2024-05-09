@@ -36,7 +36,7 @@ To get started with the project, follow these steps:
 <li>Open and run the Jupyter notebook `Biscuit_Classifier.ipynb`:</li>
 
    ```bash
-   jupyter notebook Biscuit_Classifier.ipynb
+   jupyter notebook testing_notebook.ipynb
    ```
 
 <li>Follow the notebook to train and evaluate the classifier.</li>
@@ -72,4 +72,4 @@ For a detailed analysis of the results and the model evaluation, refer to the no
 
 ## Conclusion
 
-The Biscuit Classifier successfully predicts the type of biscuit with high accuracy based on the provided parameters.
+The Biscuit Classifier successfully predicts the type of biscuit with high accuracy based on the provided parameters and using the washburn equation and other data analysis we can predict the better biscuit
