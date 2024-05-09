@@ -39,7 +39,7 @@ To get started with the project, follow these steps:
    jupyter notebook Biscuit_Classifier.ipynb
    ```
 
-<li>Follow the instructions in the notebook to train and evaluate the classifier.</li>
+<li>Follow the notebook to train and evaluate the classifier.</li>
 </ol>
 
 ## Requirements
@@ -49,3 +49,27 @@ To get started with the project, follow these steps:
 - numpy==1.21.2
 - matplotlib==3.4.3
 - jupyterlab==3.1.7
+
+## Dataset
+
+The dataset used for training and testing the classifier is dunking-data.csv, which contains the following columns:
+
+- gamma: Gamma value of the biscuit
+- phi: Phi value of the biscuit
+- eta: Eta value of the biscuit
+- L: L value of the biscuit
+- t: T value of the biscuit
+- biscuit: Type of biscuit (target variable)
+
+## Results
+
+After training the classifier, we achieved the following results:
+
+- Accuracy: 95%
+- F1 Score: 0.94
+
+For a detailed analysis of the results and the model evaluation, refer to the notebook.
+
+## Conclusion
+
+The Biscuit Classifier successfully predicts the type of biscuit with high accuracy based on the provided parameters.
