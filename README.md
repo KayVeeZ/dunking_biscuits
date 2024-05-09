@@ -24,6 +24,7 @@ This is a simple machine learning project that classifies different types of bis
    ```
    
 </ol>
+
 ## Usage
 
 <ol>
